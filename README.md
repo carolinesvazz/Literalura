@@ -1,4 +1,4 @@
-# Desafio Literalura 📚
+# Desafio LiterAlura 📚
 
 Este projeto foi desenvolvido para realizar consultas de livros por autores, a proposta é desenvolver um catálogo de livros dinâmico, integrando-se à API pública Gutendex para obter dados de obras e autores e registrá-los em um banco de dados local.
 

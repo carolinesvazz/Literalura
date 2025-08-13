@@ -32,6 +32,11 @@ Para esta aplicação a ferramenta utilizada foi o IntelliJ-IDEA e Postgre para 
 -  **Jackson**
 -  **Maven**
 
+![Java](https://img.shields.io/badge/Java-17%2B-blue?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-4.0-red?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 ## Estrutura do Código 💻
 
 - **ConsumoAPI**

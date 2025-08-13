@@ -57,7 +57,7 @@ Dependências adicionadas: Spring Data JPA / Postgre SQL Driver
 
 1. Clone este repositório:
    `bash
-   git clone [https://github.com/carolinesvazz/ValorMedioDeVeiculos](https://github.com/carolinesvazz/Literalura)
+   git clone https://github.com/carolinesvazz/Literalura
 
 ## 📄 Licença
 

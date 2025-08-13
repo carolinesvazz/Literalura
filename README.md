@@ -21,7 +21,7 @@ Para esta aplicação a ferramenta utilizada foi o IntelliJ-IDEA e Postgre para 
 
 ## Tecnologias Utilizadas 🛠️
 
-- **Java** 21 (Java SE)
+- **Java** 17 (Java SE)
 - **Gutendex API**
 - **Gson** (para serialização e desserialização de JSON)
 - **IntelliJ-IDEA**
@@ -47,11 +47,16 @@ Nesta classe você encontra Scanner para realizar a leitura da opção digitada 
 📍 API utilizada: [https://deividfortuna.github.io/fipe/?ref=public_apis&utm_medium=website](https://gutendex.com/)
 
 📥 Dowload do projeto inicial Spring: https://start.spring.io/
-Dependências adicionadas: Spring Data JPA / Postgre SQL Driver
+- Dependências adicionadas: Spring Data JPA / Postgre SQL Driver
+- Opções adicionadas: Project - Maven
+- Language: Java
+- Spring Boot 3.5.4
 
 📌 Código HTTPS para API e Json: https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html
 
 📚 Biblioteca Gson: https://mvnrepository.com/artifact/com.google.code.gson/gson
+
+📥Dowload PgAdmin (PostgreSQL): https://www.pgadmin.org/download/
 
 ## Como Executar o Projeto ▶️
 
